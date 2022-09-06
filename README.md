@@ -70,7 +70,7 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 ### Modals
 
 - [Best Practices for Designing UI Overlays](https://xd.adobe.com/ideas/process/ui-design/best-practices-for-designing-overlays/)
-- [Big, bold UX--using modal windows for in-app user engagement](https://www.appcues.com/blog/modal-dialog-windows)
+- [Big, bold UX — using modal windows for in-app user engagement](https://www.appcues.com/blog/modal-dialog-windows)
 - [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/)
 - [Modern Enterprise UI design — Part 2: Modal dialogs](https://medium.com/pulsar/modern-enterprise-ui-design-part-2-modal-dialogs-2ccd3cc33c92)
 
@@ -88,43 +88,43 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 
 ### Radio Buttons
 
-- [Selection controls -- UI component series](https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546)
+- [Selection controls — UI component series](https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546)
 - [Radio Buttons UX Design](https://uxplanet.org/radio-buttons-ux-design-588e5c0a50dc)
 - [Radio button design: easy selection and decision-making](https://www.justinmind.com/ui-design/radio-button-patterns-examples)
 
 ### Search inputs
 
-- [Best UX practices for search inputs](https://t.co/g3qOCcYJ5U)
-- [Design a Perfect Search Box](https://t.co/O5tt2zIXKq)
-- [Site Search Suggestions](https://t.co/ua5Mfvqnk7) by [@nngroup](https://twitter.com/nngroup)
+- [Best UX practices for search inputs](https://uxdesign.cc/best-ux-practices-for-search-inputs-c44dba565448)
+- [Design a Perfect Search Box](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c)
+- [Site Search Suggestions](https://www.nngroup.com/articles/site-search-suggestions/)
 
 ### Sliders
 
-- [UNBELIEVABLE article](https://t.co/NoSRmlHN1A) [@smashingmag](https://twitter.com/smashingmag) is a golden resource really.
-- [Slider design UI patterns and examples](https://t.co/G8ymVAlh6l) from [@just_in_mind](https://twitter.com/just_in_mind)
-- [Slider Design: Rules of Thumb from NNGroup](https://t.co/0iXm3teB7F)
+- [Designing The Perfect Slider](https://www.smashingmagazine.com/2017/07/designing-perfect-slider/)
+- [Slider design UI patterns and examples](https://www.justinmind.com/blog/slider-design-web/)
+- [Slider Design: Rules of Thumb](https://www.nngroup.com/articles/gui-slider-controls/)
 
 ### Tables
 
-- [Design better data tables](https://t.co/LkviePrdOS) by [@CoyleAndrew](https://twitter.com/CoyleAndrew)
-- [The Ultimate Guide to Designing Data Tables](https://t.co/trFjRmCPsO)
-- [Designing better data tables for enterprise UX](https://t.co/IjBCF2SB3P)
+- [Design better data tables](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
+- [The Ultimate Guide to Designing Data Tables](https://medium.com/design-with-figma/the-ultimate-guide-to-designing-data-tables-7db29713a85a)
+- [Designing better data tables for enterprise UX](https://uxdesign.cc/data-table-for-enterprise-ux-cb48fb9fdf1e)
 - [Modern Enterprise UI design — Part 1: Tables](https://medium.com/pulsar/modern-enterprise-ui-design-part-1-tables-ad8ee1b9feb)
 
 ### Tabs
 
-- [Module Tabs in Web Design: Best Practices and Solutions](https://t.co/hLUpxfTUzf)
-- [12 Tabs Design guidelines](https://t.co/HmPNXiNoLV)
+- [Module Tabs in Web Design: Best Practices and Solutions](https://www.smashingmagazine.com/2009/06/module-tabs-in-web-design-best-practices-and-solutions/)
+- [12 Tabs Design guidelines](https://www.nngroup.com/articles/tabs-used-right/)
 
 ### Text Fields
 
-- [UI cheat sheet: text fields (Awesome article!)](https://t.co/92eqmsxJz5)
-- [Text fields & Forms design --- UI components series](https://t.co/a5OAlsBYYz)
-- [The Anatomy of Input Field](https://t.co/BzjdsNLbGp)
+- [UI cheat sheet: text fields (Awesome article!)](https://uxdesign.cc/ui-cheat-sheet-text-fields-2152112615f8)
+- [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
+- [The Anatomy of Input Field](https://uxplanet.org/the-anatomy-of-input-field-c3ef863e01d7)
 
 ### Tooltips
 
-- [Tooltip Guidelines](https://t.co/Jct5q7ydeR)
-- [Designing Better Tooltips For Mobile User Interfaces](https://t.co/QUwNvDM3NI)
-- [Tooltips: your secret weapon for improving feature discovery](https://t.co/9XPdAFwR6s) by [@sofiaqt](https://twitter.com/sofiaqt)
+- [Tooltip Guidelines](https://www.nngroup.com/articles/tooltip-guidelines/)
+- [Designing Better Tooltips For Mobile User Interfaces](https://www.smashingmagazine.com/2021/02/designing-tooltips-mobile-user-interfaces/)
+- [Tooltips: your secret weapon for improving feature discovery](https://uxdesign.cc/tooltips-your-secret-weapon-for-improving-deature-discovery-e1c380562f2e)
 
