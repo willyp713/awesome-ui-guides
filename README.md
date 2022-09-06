@@ -1,6 +1,7 @@
 # Awesome UI Guides
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 
 A list of UI design guides.
 
