@@ -6,7 +6,28 @@ Based on the original list compiled by Victor Ponamariov on [Reddit](https://www
 --------------------
 
 ## Table of Contents
-WIP
+
+- [Accessiblity](#accessiblity)
+- [Breadcrumbs](#breadcrumbs)
+- [Buttons](#buttons)
+- [Cards](#cards)
+- [Carousels](#carousels)
+- [Checkboxes & Toggles](#checkboxes--toggles)
+- [Datepickers](#datepickers)
+- [Dropdowns](#dropdowns)
+- [Forms](#forms)
+- [Loaders](#loaders)
+- [Miscellaneous/General](#miscellaneousgeneral)
+- [Modals](#modals)
+- [Navigation](#navigation)
+- [Pagination](#pagination)
+- [Radio Buttons](#radio-buttons)
+- [Search Inputs](#search-inputs)
+- [Sliders](#sliders)
+- [Tables](#tables)
+- [Tabs](#tabs)
+- [Text Fields](#text-fields)
+- [Tooltips](#tooltips)
 
 --------------------
 ### Accessiblity
@@ -50,10 +71,6 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 - [Date Picker Design Best Practices](https://uxplanet.org/date-picker-design-best-practices-41bd522f10a5)
 - [A hunt for the perfect date picker UI](https://uxdesign.cc/date-picker-design-5c5ef8f35286)
 
-### Design
-
-- [Methods for Human-Centered Design Research](https://methods.18f.gov/)
-
 ### Dropdowns
 
 - [UI cheat sheet: dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432)
@@ -75,6 +92,7 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 ### Miscellaneous/General
 - [A List Apart](https://alistapart.com/) - Expert articles and guides for web content, design, UX, and more. Companion to the book publisher [A Book Apart](https://abookapart.com/).
 - [Digital Services Playbook](https://playbook.cio.gov/) - US Government playbook for human-centered design, agile process, and modern architechture.
+- [Methods for Human-Centered Design Research](https://methods.18f.gov/) - List of human-centered design research practices with practical guides to implement.
 - [Ten Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) - Jakob Nielsen's everlasting 10 general principles for interaction design, maintained since 1994.
 - [The Laws of UX](https://lawsofux.com/en/) - A collection of researched-based best practices that designers can consider when building user interfaces.
 
@@ -103,7 +121,7 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 - [Radio Buttons UX Design](https://uxplanet.org/radio-buttons-ux-design-588e5c0a50dc)
 - [Radio button design: easy selection and decision-making](https://www.justinmind.com/ui-design/radio-button-patterns-examples)
 
-### Search inputs
+### Search Inputs
 
 - [Best UX practices for search inputs](https://uxdesign.cc/best-ux-practices-for-search-inputs-c44dba565448)
 - [Design a Perfect Search Box](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c)
