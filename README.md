@@ -129,7 +129,7 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 
 ### Text Fields
 
-- [UI cheat sheet: text fields (Awesome article!)](https://uxdesign.cc/ui-cheat-sheet-text-fields-2152112615f8)
+- [UI cheat sheet: text fields](https://uxdesign.cc/ui-cheat-sheet-text-fields-2152112615f8)
 - [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
 - [The Anatomy of Input Field](https://uxplanet.org/the-anatomy-of-input-field-c3ef863e01d7)
 
