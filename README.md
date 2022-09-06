@@ -1,5 +1,8 @@
 # Awesome-UI-Guides
-A list of UI design guides
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A list of UI design guides.
 
 Based on the original list compiled by Victor Ponamariov on [Reddit](https://www.reddit.com/r/webdev/comments/mpgc9g/how_to_design_almost_any_ui_element_list_of_58) and [Twitter](https://twitter.com/vponamariov/status/1381584285300359169).
 
