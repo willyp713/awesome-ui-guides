@@ -10,6 +10,7 @@ WIP
 
 --------------------
 ### Accessiblity
+- [18F Accessibility Guide](https://accessibility.18f.gov/)
 - [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a)
 
 ### Breadcrumbs
@@ -49,6 +50,10 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 - [Date Picker Design Best Practices](https://uxplanet.org/date-picker-design-best-practices-41bd522f10a5)
 - [A hunt for the perfect date picker UI](https://uxdesign.cc/date-picker-design-5c5ef8f35286)
 
+### Design
+
+- [Methods for Human-Centered Design Research](https://methods.18f.gov/)
+
 ### Dropdowns
 
 - [UI cheat sheet: dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432)
@@ -66,6 +71,12 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 - [Progress Indicators Make a Slow System Less Insufferable](https://www.nngroup.com/articles/progress-indicators/)
 - [Stop Using A Loading Spinner, There's Something Better](https://uxdesign.cc/stop-using-a-loading-spinner-theres-something-better-d186194f771e)
 - [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
+
+### Miscellaneous/General
+- [A List Apart](https://alistapart.com/) - Expert articles and guides for web content, design, UX, and more. Companion to the book publisher [A Book Apart](https://abookapart.com/).
+- [Digital Services Playbook](https://playbook.cio.gov/) - US Government playbook for human-centered design, agile process, and modern architechture.
+- [Ten Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) - Jakob Nielsen's everlasting 10 general principles for interaction design, maintained since 1994.
+- [The Laws of UX](https://lawsofux.com/en/) - A collection of researched-based best practices that designers can consider when building user interfaces.
 
 ### Modals
 
