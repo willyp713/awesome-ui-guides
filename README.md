@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
-A list of UI design guides.
+A curated list of UI design articles, guides, and best practices.
 
 Based on the original list compiled by Victor Ponamariov on [Reddit](https://www.reddit.com/r/webdev/comments/mpgc9g/how_to_design_almost_any_ui_element_list_of_58) and [Twitter](https://twitter.com/vponamariov/status/1381584285300359169).
 
