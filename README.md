@@ -9,6 +9,8 @@ Based on the original list compiled by Victor Ponamariov on [Reddit](https://www
 WIP
 
 --------------------
+### Accessiblity
+- [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a)
 
 ### Breadcrumbs
 
@@ -28,7 +30,7 @@ WIP
 - [Designing cards](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6)
 
 ### Carousels
-*Are you sure you want a carousel? Check [Should I Use a Carousel?](http://shouldiuseacarousel.com/)*
+Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 
 - [Carousel/slider design best practices (with examples)](https://webflow.com/blog/carousel-slider-design-best-practices)
 - [Carousel Usability: Designing an Effective UI for Websites with Content Overload](https://www.nngroup.com/articles/designing-effective-carousels/)
@@ -43,52 +45,52 @@ WIP
 
 ### Datepickers
 
-- [How to Design a Perfect Date Picker Control?](https://t.co/DMoKDpJ6Ri)
-- [Date Picker Design Best Practices](https://t.co/PXcZGQ66Zv)
-- [A hunt for the perfect date picker UI](https://t.co/cF41bhB5dn)
+- [How to Design a Perfect Date Picker Control?](https://uxplanet.org/how-to-design-a-perfect-date-picker-control-7f47d1290c3a)
+- [Date Picker Design Best Practices](https://uxplanet.org/date-picker-design-best-practices-41bd522f10a5)
+- [A hunt for the perfect date picker UI](https://uxdesign.cc/date-picker-design-5c5ef8f35286)
 
 ### Dropdowns
 
-- [UI cheat sheet: dropdown field (Like this one)](https://t.co/XMF5mE4jjc)
-- [Dropdowns: Design Guidelines](https://t.co/wnqYIWvAxF)
-- [Drop down list design: the complete guide](https://t.co/gRqNsCawTl)
+- [UI cheat sheet: dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432)
+- [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/)
+- [Drop down list design: the complete guide](https://www.justinmind.com/blog/drop-down-list-design/)
 
 ### Forms
 
-- [Design Better Forms](https://t.co/xJWs2vhuJQ) by [@CoyleAndrew](https://twitter.com/CoyleAndrew) (Really good read!)
-- [Form Design: 13 Empirically Backed Best Practices](https://t.co/7ptPrcUQEq) by [@iamalexbirkett](https://twitter.com/iamalexbirkett)
-- [The UX behind designing better forms](https://t.co/nIV8MfUGLY) by [@charmiekapoor](https://twitter.com/charmiekapoor)
+- [Design Better Forms](https://medium.com/nextux/design-better-forms-96fadca0f49c)
+- [Form Design: 13 Empirically Backed Best Practices](https://cxl.com/blog/form-design-best-practices/)
+- [The UX behind designing better forms](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2)
 
 ### Loaders
 
-- [Progress Indicators Make a Slow System Less Insufferable](https://t.co/jOmtMPQ8nU)
-- [Stop Using A Loading Spinner, There's Something Better](https://t.co/0O0RBNyX0W)
-- [Best Practices For Animated Progress Indicators](https://t.co/lgLY2zJaPm)
+- [Progress Indicators Make a Slow System Less Insufferable](https://www.nngroup.com/articles/progress-indicators/)
+- [Stop Using A Loading Spinner, There's Something Better](https://uxdesign.cc/stop-using-a-loading-spinner-theres-something-better-d186194f771e)
+- [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
 
 ### Modals
 
-- [Best Practices for Designing UI Overlays](https://t.co/WxYMZhG61p) by [@oliverlindberg](https://twitter.com/oliverlindberg)
-- [Big, bold UX---using modal windows for in-app user engagement](https://t.co/uPVaJ1CLDk) from [@appcues](https://twitter.com/appcues)
-- [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://t.co/5GJw7sl3VL)
-- [Modal dialogs](https://t.co/TXEnv10keD)
+- [Best Practices for Designing UI Overlays](https://xd.adobe.com/ideas/process/ui-design/best-practices-for-designing-overlays/)
+- [Big, bold UX--using modal windows for in-app user engagement](https://www.appcues.com/blog/modal-dialog-windows)
+- [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/)
+- [Modern Enterprise UI design — Part 2: Modal dialogs](https://medium.com/pulsar/modern-enterprise-ui-design-part-2-modal-dialogs-2ccd3cc33c92)
 
 ### Navigation
 
-- [Navigation design: Almost everything you need to know](https://t.co/4NUG9KoLwN)
-- [UX Design for Navigation Menu](https://t.co/d3otgDaTMh) from [@Prototypr](https://twitter.com/Prototypr)
-- [The Fastest Navigation Layout for a Three-Level Menu](https://t.co/fNwZQzSFrb) from [@uxmovement](https://twitter.com/uxmovement)
+- [Navigation design: Almost everything you need to know](https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/)
+- [UX Design for Navigation Menus](https://blog.prototypr.io/ux-design-for-navigation-menus-d9875c91a7ea)
+- [The Fastest Navigation Layout for a Three-Level Menu](https://uxmovement.medium.com/the-fastest-navigation-layout-for-a-three-level-menu-b0480e2f11a2)
 
 ### Pagination
 
-- [Paging, Scrolling, and Infinite Scroll](https://t.co/M4qLpZHwxV) by [@uxmatters](https://twitter.com/uxmatters)
-- [UX: Infinite Scrolling vs. Pagination](https://t.co/AZN4ttXUli) by [@101babich](https://twitter.com/101babich)
-- [Users' Pagination Preferences and "View All"](https://t.co/h74qKS8emt)
+- [Paging, Scrolling, and Infinite Scroll](https://www.uxmatters.com/mt/archives/2018/11/paging-scrolling-and-infinite-scroll.php)
+- [UX: Infinite Scrolling vs. Pagination](https://uxplanet.org/ux-infinite-scrolling-vs-pagination-1030d29376f1)
+- [Users' Pagination Preferences and "View All"](https://www.nngroup.com/articles/item-list-view-all/)
 
 ### Radio Buttons
 
-- [Selection controls --- UI component series (AWESOME)](https://t.co/iYM2TOwJJJ)
-- [Radio Buttons UX Design](https://t.co/toIB4ATFsy)
-- [Radio button design: easy selection and decision-making](https://t.co/ju5EKVnCCv)
+- [Selection controls -- UI component series](https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546)
+- [Radio Buttons UX Design](https://uxplanet.org/radio-buttons-ux-design-588e5c0a50dc)
+- [Radio button design: easy selection and decision-making](https://www.justinmind.com/ui-design/radio-button-patterns-examples)
 
 ### Search inputs
 
@@ -107,6 +109,7 @@ WIP
 - [Design better data tables](https://t.co/LkviePrdOS) by [@CoyleAndrew](https://twitter.com/CoyleAndrew)
 - [The Ultimate Guide to Designing Data Tables](https://t.co/trFjRmCPsO)
 - [Designing better data tables for enterprise UX](https://t.co/IjBCF2SB3P)
+- [Modern Enterprise UI design — Part 1: Tables](https://medium.com/pulsar/modern-enterprise-ui-design-part-1-tables-ad8ee1b9feb)
 
 ### Tabs
 
