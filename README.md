@@ -35,39 +35,37 @@ Based on the original list compiled by Victor Ponamariov on [Reddit](https://www
 
 --------------------
 ### Accessiblity
-- [18F Accessibility Guide](https://accessibility.18f.gov/)
-- [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a)
+- [18F Accessibility Guide](https://accessibility.18f.gov/) - US Government technology consultancy's best practices for accessiblity
+- [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a) - Utilizing visual and audio helpers to make input fields more accessible
 
 ### Breadcrumbs
 
-- [Breadcrumbs: 11 Design Guidelines for Desktop and Mobile](https://www.nngroup.com/articles/breadcrumbs/)
-- [Are breadcrumbs still fresh for UX?](https://medium.com/madison-ave-collective/are-breadcrumbs-still-fresh-for-ux-6e72b0f96e9b)
-- [Breadcrumb examples for inspiration](https://www.justinmind.com/blog/breadcrumb-examples/)
+- [Breadcrumbs: 11 Design Guidelines for Desktop and Mobile](https://www.nngroup.com/articles/breadcrumbs/) - Best bractices for breadcrumbs from the UI/UX thought leader
+- [Are breadcrumbs still fresh for UX?](https://medium.com/madison-ave-collective/are-breadcrumbs-still-fresh-for-ux-6e72b0f96e9b) - Mix of theory and practical examples
 
 ### Buttons
 
-- [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
-- [Cheatsheet for buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112)
+- [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4) - Best practice for designing a button
+- [Cheatsheet for buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Understanding different types of buttons and how to use them together
 
 ### Cards
 
-- [Card UI design: fundamentals and examples](https://www.justinmind.com/ui-design/cards)
-- [Simple Design Tips for Crafting Better UI Cards](https://uxplanet.org/simple-design-tips-for-crafting-better-ui-cards-19c1ac31a44e)
-- [Designing cards](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6)
+- [Card UI design: fundamentals and examples](https://www.justinmind.com/ui-design/cards) - Fundamental concepts for creating UI cards
+- [Simple Design Tips for Crafting Better UI Cards](https://uxplanet.org/simple-design-tips-for-crafting-better-ui-cards-19c1ac31a44e) - Mix of theory and application for improving on the basics of Card design
+- [Designing cards](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6) - Practical tips for avoiding common mistakes with UI cards
 
 ### Carousels
 Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 
-- [Carousel/slider design best practices (with examples)](https://webflow.com/blog/carousel-slider-design-best-practices)
-- [Carousel Usability: Designing an Effective UI for Websites with Content Overload](https://www.nngroup.com/articles/designing-effective-carousels/)
-- [Designing a User-Friendly Homepage Carousel](https://uxplanet.org/designing-a-user-friendly-homepage-carousel-f664c9f2b50e)
+- [Carousel/slider design best practices (with examples)](https://webflow.com/blog/carousel-slider-design-best-practices) - Overview of effective carousel design and when NOT to use one
+- [Carousel Usability: Designing an Effective UI for Websites with Content Overload](https://www.nngroup.com/articles/designing-effective-carousels/) - Best bractices for carousel design from the UI/UX thought leader
+- [Designing a User-Friendly Homepage Carousel](https://uxplanet.org/designing-a-user-friendly-homepage-carousel-f664c9f2b50e) - Fundamentals for usable carousels
 
 ### Checkboxes & Toggles
 
-- [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
-- [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
-- [Toggle switch design: the full run through](https://www.justinmind.com/ui-design/toggle-patterns-examples)
-- [41 Modern CSS Checkbox Designs](https://uicookies.com/css-checkbox/)
+- [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8) - Understanding the difference between checkboxes and toggles, and when to use each
+- [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/) - Best bractices for toggle design from the UI/UX thought leader
+- [41 Modern CSS Checkbox Designs](https://uicookies.com/css-checkbox/) - Long list of inspirational examples of checkbox designs
 
 ### Datepickers
 
