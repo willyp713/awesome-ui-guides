@@ -35,61 +35,60 @@ Based on the original list compiled by Victor Ponamariov on [Reddit](https://www
 
 --------------------
 ### Accessiblity
-- [18F Accessibility Guide](https://accessibility.18f.gov/) - US Government technology consultancy's best practices for accessiblity
-- [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a) - Utilizing visual and audio helpers to make input fields more accessible
+- [18F Accessibility Guide](https://accessibility.18f.gov/) - US Government technology consultancy's best practices for accessiblity.
+- [Creating accessible input errors and help text](https://medium.com/pulsar/creating-accessible-input-errors-and-help-text-74c7e00e757a) - Utilizing visual and audio helpers to make input fields more accessible.
 
 ### Breadcrumbs
 
-- [Breadcrumbs: 11 Design Guidelines for Desktop and Mobile](https://www.nngroup.com/articles/breadcrumbs/) - Best bractices for breadcrumbs from the UI/UX thought leader
-- [Are breadcrumbs still fresh for UX?](https://medium.com/madison-ave-collective/are-breadcrumbs-still-fresh-for-ux-6e72b0f96e9b) - Mix of theory and practical examples
+- [Breadcrumbs: 11 Design Guidelines for Desktop and Mobile](https://www.nngroup.com/articles/breadcrumbs/) - Best bractices for breadcrumbs from NNG, the UI/UX thought leader.
+- [Are breadcrumbs still fresh for UX?](https://medium.com/madison-ave-collective/are-breadcrumbs-still-fresh-for-ux-6e72b0f96e9b) - Mix of theory and practical examples.
 
 ### Buttons
 
-- [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4) - Best practice for designing a button
-- [Cheatsheet for buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Understanding different types of buttons and how to use them together
+- [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4) - Best practice for designing a button.
+- [Cheatsheet for buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Understanding different types of buttons and how to use them together.
 
 ### Cards
 
-- [Card UI design: fundamentals and examples](https://www.justinmind.com/ui-design/cards) - Fundamental concepts for creating UI cards
-- [Simple Design Tips for Crafting Better UI Cards](https://uxplanet.org/simple-design-tips-for-crafting-better-ui-cards-19c1ac31a44e) - Mix of theory and application for improving on the basics of Card design
-- [Designing cards](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6) - Practical tips for avoiding common mistakes with UI cards
+- [Card UI design: fundamentals and examples](https://www.justinmind.com/ui-design/cards) - Fundamental concepts for creating UI cards.
+- [Simple Design Tips for Crafting Better UI Cards](https://uxplanet.org/simple-design-tips-for-crafting-better-ui-cards-19c1ac31a44e) - Mix of theory and application for improving on the basics of Card design.
+- [Designing cards](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6) - Practical tips for avoiding common mistakes with UI cards.
 
 ### Carousels
 Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 
-- [Carousel/slider design best practices (with examples)](https://webflow.com/blog/carousel-slider-design-best-practices) - Overview of effective carousel design and when NOT to use one
-- [Carousel Usability: Designing an Effective UI for Websites with Content Overload](https://www.nngroup.com/articles/designing-effective-carousels/) - Best bractices for carousel design from the UI/UX thought leader
-- [Designing a User-Friendly Homepage Carousel](https://uxplanet.org/designing-a-user-friendly-homepage-carousel-f664c9f2b50e) - Fundamentals for usable carousels
+- [Carousel/slider design best practices (with examples)](https://webflow.com/blog/carousel-slider-design-best-practices) - Overview of effective carousel design and when NOT to use one.
+- [Carousel Usability: Designing an Effective UI for Websites with Content Overload](https://www.nngroup.com/articles/designing-effective-carousels/) - Best bractices for carousel design from NNG, the UI/UX thought leader.
+- [Designing a User-Friendly Homepage Carousel](https://uxplanet.org/designing-a-user-friendly-homepage-carousel-f664c9f2b50e) - Fundamentals for usable carousels.
 
 ### Checkboxes & Toggles
 
-- [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8) - Understanding the difference between checkboxes and toggles, and when to use each
-- [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/) - Best bractices for toggle design from the UI/UX thought leader
-- [41 Modern CSS Checkbox Designs](https://uicookies.com/css-checkbox/) - Long list of inspirational examples of checkbox designs
+- [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8) - Understanding the difference between checkboxes and toggles, and when to use each.
+- [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/) - Best bractices for toggle design from NNG, the UI/UX thought leader.
+- [41 Modern CSS Checkbox Designs](https://uicookies.com/css-checkbox/) - Long list of inspirational examples of checkbox designs.
 
 ### Datepickers
 
-- [How to Design a Perfect Date Picker Control?](https://uxplanet.org/how-to-design-a-perfect-date-picker-control-7f47d1290c3a)
-- [Date Picker Design Best Practices](https://uxplanet.org/date-picker-design-best-practices-41bd522f10a5)
-- [A hunt for the perfect date picker UI](https://uxdesign.cc/date-picker-design-5c5ef8f35286)
+- [How to Design a Perfect Date Picker Control?](https://uxplanet.org/how-to-design-a-perfect-date-picker-control-7f47d1290c3a) - Examples of a variety of styles of date pickers, including consideration for failure and errors.
+- [Date Picker Design Best Practices](https://uxplanet.org/date-picker-design-best-practices-41bd522f10a5) - Practical list of dos and don'ts for date pickers.
 
 ### Dropdowns
 
-- [UI cheat sheet: dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432)
-- [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/)
-- [Drop down list design: the complete guide](https://www.justinmind.com/blog/drop-down-list-design/)
+- [UI cheat sheet: dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432) - Extensive list of considerations for building quality dropdowns
+- [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/) - Best bractices for dropdown design from NNG, the UI/UX thought leader.
+- [Drop down list design: the complete guide](https://www.justinmind.com/blog/drop-down-list-design/) - Fundamentals for drop down use cases and design.
 
 ### Forms
 
-- [Design Better Forms](https://medium.com/nextux/design-better-forms-96fadca0f49c)
-- [Form Design: 13 Empirically Backed Best Practices](https://cxl.com/blog/form-design-best-practices/)
-- [The UX behind designing better forms](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2)
+- [Design Better Forms](https://medium.com/nextux/design-better-forms-96fadca0f49c) - Common form mistakes and how to fix them.
+- [Form Design: 13 Empirically Backed Best Practices](https://cxl.com/blog/form-design-best-practices/) - List of best practices for form design backed by research and case studies.
+- [The UX behind designing better forms](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2) - Walkthrough of improving an existing form while learning best practices along the way.
 
 ### Loaders
 
-- [Progress Indicators Make a Slow System Less Insufferable](https://www.nngroup.com/articles/progress-indicators/)
-- [Stop Using A Loading Spinner, There's Something Better](https://uxdesign.cc/stop-using-a-loading-spinner-theres-something-better-d186194f771e)
-- [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
+- [Progress Indicators Make a Slow System Less Insufferable](https://www.nngroup.com/articles/progress-indicators/) - Best bractices for progress indicators from NNG, the UI/UX thought leader.
+- [Stop Using A Loading Spinner, There's Something Better](https://uxdesign.cc/stop-using-a-loading-spinner-theres-something-better-d186194f771e) - How to use more helpful indicators of progress to avoid anxiety induced by indeterminate spinners.
+- [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/) - When to use animation in prgoress indicators.
 
 ### Miscellaneous/General
 - [A List Apart](https://alistapart.com/) - Expert articles and guides for web content, design, UX, and more. Companion to the book publisher [A Book Apart](https://abookapart.com/).
@@ -100,10 +99,10 @@ Are you sure you want a carousel? *See* [Should I Use a Carousel?](http://should
 
 ### Modals
 
-- [Best Practices for Designing UI Overlays](https://xd.adobe.com/ideas/process/ui-design/best-practices-for-designing-overlays/)
-- [Big, bold UX — using modal windows for in-app user engagement](https://www.appcues.com/blog/modal-dialog-windows)
-- [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/)
-- [Modern Enterprise UI design — Part 2: Modal dialogs](https://medium.com/pulsar/modern-enterprise-ui-design-part-2-modal-dialogs-2ccd3cc33c92)
+- [Best Practices for Designing UI Overlays](https://xd.adobe.com/ideas/process/ui-design/best-practices-for-designing-overlays/) - Dos and don'ts for UI overlays.
+- [Big, bold UX — using modal windows for in-app user engagement](https://www.appcues.com/blog/modal-dialog-windows) - Examples of bright, cheerful and attention-grabbing overlays.
+- [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/) - Best bractices for dialog boxes and overlays from NNG, the UI/UX thought leader.
+- [Modern Enterprise UI design — Part 2: Modal dialogs](https://medium.com/pulsar/modern-enterprise-ui-design-part-2-modal-dialogs-2ccd3cc33c92) - Recommendations for best use of modal overlays in an information-heavy interface, like enterprise applications.
 
 ### Navigation
 
