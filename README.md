@@ -9,7 +9,7 @@ Based on the original list compiled by Victor Ponamariov on [Reddit](https://www
 
 --------------------
 
-## Table of Contents
+## Contents
 
 - [Accessiblity](#accessiblity)
 - [Breadcrumbs](#breadcrumbs)
